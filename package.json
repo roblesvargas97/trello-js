@@ -9,6 +9,7 @@
   "author": "Jesus Uriel Robles Vargas",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.0.0"
+    "dotenv": "^16.0.0",
+    "trello": "^0.11.0"
   }
 }
